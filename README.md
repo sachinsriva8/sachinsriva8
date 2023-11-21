@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sachin Srivsatava</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I go by name Sachin Srivsatava</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB**
 
